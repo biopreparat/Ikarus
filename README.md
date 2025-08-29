@@ -9,8 +9,7 @@ delivery visualised from 2vCPUs on ARM infrastructure processing VPS.
 
 Real life example from the pinging side from the victim:
 ![img_6nJG6N40](https://github.com/user-attachments/assets/f9a41675-59e3-45d3-852e-dc2ec4bbd132)
-
-From the two minutes the Yugoslav-Russian Woodpecker is running, perhaps only fiveteen seconds of it are pingable- the rest as you can observe from the very right bars of status are complete silence. What's even... better, is that your network needs a bit of time to wake up from this- especially if you run part1+part2 optimised within their own tmux windows, as it completely overloads the LAN card on the hardware side of things. 
+2-minute ping real-usage example
 
 ## Variants of the script:
 - Ikarus-Woodpecker [L7](https://github.com/biopreparat/Ikarus/blob/main/W/IKW1a-p1.sh) / [L3/L4](https://github.com/biopreparat/Ikarus/blob/main/W/IKW1a-p2.sh)
