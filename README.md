@@ -7,6 +7,10 @@ Ikarus HTTP/S L3－L7+M network utilities for Linux and Darwin x86+ARM kernels
 60 second visual waves in RPS from the first alpha version of the L3 and L7 combined, plus modulated Ikarus-Woodpecker software for stress-testing the layers of ones network infrastructure,
 delivery visualised from 2vCPUs on ARM infrastructure processing VPS.
 
+Real life example from the pinging side from the victim:
+![img_6nJG6N40](https://github.com/user-attachments/assets/f9a41675-59e3-45d3-852e-dc2ec4bbd132)
+
+
 ## Variants of the script:
 - Ikarus-Woodpecker [L7](https://github.com/biopreparat/Ikarus/blob/main/W/IKW1a-p1.sh) / [L3/L4](https://github.com/biopreparat/Ikarus/blob/main/W/IKW1a-p2.sh)
 
