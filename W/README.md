@@ -1,4 +1,3 @@
-![ukrainekyivoblast-chernobyl-aerial-view-of-remains-of-russian-woodpecker-radar-at-sunset-SMAF02016](https://github.com/user-attachments/assets/78c372a8-f97c-41e9-b5fb-a96163fab88e)
+![Woodpecker_17261939](https://github.com/user-attachments/assets/30f409da-8cb0-4808-b1b4-492f700ca083)
 
-W for Woodpecker. Soviet Woodpecker. You know about it? You should, is this radar that got this whole modulation of insane stress-testing setup for you all. Jitter, delays, noise- all based from the Duga radar, a.k.a. the Russian or Soviet Woodpecker- despite the main one being in Ukraine, Chernobyl. [url]()]).
-[ https://upload.wikimedia.org/wikipedia/commons/5/5b/Woodpecker.ogg](Hear the actual woodpecker in action from an archival recording)
+W for Woodpecker. Soviet Woodpecker. You know about it? The woodpecker or also known as the Duga (Дуга) is the basis inspiration for the M-layer modulations on this variant. Jitter, delays, noise- all based from the Duga radar, a.k.a. the Russian or Soviet Woodpecker- despite the main one being in Ukraine, Chernobyl. [Hear the actual woodpecker in action from an archival recording](https://upload.wikimedia.org/wikipedia/commons/5/5b/Woodpecker.ogg). We achieved to get good spikes and points, that we believe you'll have fun with this one! Power of another sort.
