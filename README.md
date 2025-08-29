@@ -6,3 +6,4 @@ Ikarus HTTP/S L3－L7+M network utilities for Linux and Darwin x86+ARM kernels
 
 60 second visual waves in RPS from the first alpha version of the L3 and L7 combined, plus modulated Ikarus-Woodpecker software for stress-testing the layers of ones network infrastructure.
 
+IKW1α : p1/p2
